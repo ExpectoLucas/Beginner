@@ -1,0 +1,5 @@
+2023/04/23-15:41:07.802 650 Reusing MANIFEST D:/Github/Beginner/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/23-15:43:00.700 1660 Level-0 table #5: started
+2023/04/23-15:43:00.703 1660 Level-0 table #5: 8428 bytes OK
+2023/04/23-15:43:00.705 1660 Delete type=0 #3
+2023/04/23-15:43:00.705 1660 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
